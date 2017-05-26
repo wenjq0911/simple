@@ -1,0 +1,8 @@
+D:\Works\MainBusinessDemo\Web\Simple\Simple\bin\Debug\netcoreapp1.0\Simple.deps.json
+D:\Works\MainBusinessDemo\Web\Simple\Simple\bin\Debug\netcoreapp1.0\Simple.runtimeconfig.json
+D:\Works\MainBusinessDemo\Web\Simple\Simple\bin\Debug\netcoreapp1.0\Simple.runtimeconfig.dev.json
+D:\Works\MainBusinessDemo\Web\Simple\Simple\bin\Debug\netcoreapp1.0\Simple.dll
+D:\Works\MainBusinessDemo\Web\Simple\Simple\bin\Debug\netcoreapp1.0\Simple.pdb
+D:\Works\MainBusinessDemo\Web\Simple\Simple\obj\Debug\netcoreapp1.0\Simple.AssemblyInfo.cs
+D:\Works\MainBusinessDemo\Web\Simple\Simple\obj\Debug\netcoreapp1.0\Simple.dll
+D:\Works\MainBusinessDemo\Web\Simple\Simple\obj\Debug\netcoreapp1.0\Simple.pdb
